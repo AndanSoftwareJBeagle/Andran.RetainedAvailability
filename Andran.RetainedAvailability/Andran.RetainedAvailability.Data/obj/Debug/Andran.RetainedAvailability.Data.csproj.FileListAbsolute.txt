@@ -1,0 +1,10 @@
+C:\Users\Jordan\Desktop\Andran.RetainedAvailability\Andran.RetainedAvailability.Data\bin\Debug\Andran.RetainedAvailability.Data.dll.config
+C:\Users\Jordan\Desktop\Andran.RetainedAvailability\Andran.RetainedAvailability.Data\bin\Debug\Andran.RetainedAvailability.Data.dll
+C:\Users\Jordan\Desktop\Andran.RetainedAvailability\Andran.RetainedAvailability.Data\bin\Debug\Andran.RetainedAvailability.Data.pdb
+C:\Users\Jordan\Desktop\Andran.RetainedAvailability\Andran.RetainedAvailability.Data\bin\Debug\EntityFramework.dll
+C:\Users\Jordan\Desktop\Andran.RetainedAvailability\Andran.RetainedAvailability.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jordan\Desktop\Andran.RetainedAvailability\Andran.RetainedAvailability.Data\bin\Debug\EntityFramework.xml
+C:\Users\Jordan\Desktop\Andran.RetainedAvailability\Andran.RetainedAvailability.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jordan\Desktop\Andran.RetainedAvailability\Andran.RetainedAvailability.Data\obj\Debug\Andran.RetainedAvailability.Data.csprojResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\Andran.RetainedAvailability\Andran.RetainedAvailability.Data\obj\Debug\Andran.RetainedAvailability.Data.dll
+C:\Users\Jordan\Desktop\Andran.RetainedAvailability\Andran.RetainedAvailability.Data\obj\Debug\Andran.RetainedAvailability.Data.pdb
